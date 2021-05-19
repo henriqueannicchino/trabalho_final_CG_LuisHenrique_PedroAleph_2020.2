@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SplashScreen.unity
+    guid: 9ee34430ab5bd164cbf9b0ee54996848
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: a69a0b9e819819d4db4edba3c5c0cf85
+  - enabled: 1
+    path: Assets/TrackSelect.unity
+    guid: 16b232a9f06e547468f8aa35acae25b8
+  - enabled: 1
+    path: Assets/RaceArea01.unity
+    guid: b7ef67c17f6158447958325d1518eafa
+  - enabled: 1
+    path: Assets/RaceArea02.unity
+    guid: 08a6910680d772943acbfaffca0ebf5d
+  - enabled: 1
+    path: Assets/RaceArea03.unity
+    guid: 6112e9a4a3628e842916a04937081ce2
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 81fc4230524c1764d9778bbbbdf16fbb
